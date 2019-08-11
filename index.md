@@ -13,7 +13,7 @@
 
 ---
 [Raffle It Up](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Raffle_It_UP.jpg?raw=true"/>
 
 ### Category Name 2
 
