@@ -8,10 +8,10 @@
 <img src="images/irrigation-588941_960_720.jpg?raw=true"/>
 
 ---
-[Terminal Galaxy](https://github.com/aaa44623/Terminal-Galaxy)
-[Google Play](https://play.google.com/store/apps/details?id=com.Group1Games.TerminalGalaxy&hl=en_US)
+
 <img src="images/TG.jpg?raw=true"/>
 [Google Play](https://play.google.com/store/apps/details?id=com.Group1Games.TerminalGalaxy&hl=en_US)
+[Terminal Galaxy](https://github.com/aaa44623/Terminal-Galaxy)
 
 ---
 [Raffle It Up](http://example.com/)
