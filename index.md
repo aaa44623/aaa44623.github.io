@@ -2,10 +2,10 @@
 
 ---
 
-### Recent Projects 
+### Projects 
 
 [CSUN Irrigation System](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/irrigation-588941_960_720.jpg?raw=true"/>
 
 ---
 [Terminal Galaxy](/pdf/sample_presentation.pdf)
@@ -15,13 +15,6 @@
 [Raffle It Up](http://example.com/)
 <img src="images/Raffle_It_UP.jpg?raw=true"/>
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
