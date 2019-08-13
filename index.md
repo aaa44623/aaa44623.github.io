@@ -1,7 +1,3 @@
-## Portfolio
-
----
-
 ### Projects 
 
 [CSUN Irrigation System](/pdf/Irrigation%20-%20Hardware%20and%20Software%20Integration.pdf)
