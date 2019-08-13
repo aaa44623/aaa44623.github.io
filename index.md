@@ -23,7 +23,7 @@
 
 ---
 [RollTheDice](https://github.com/aaa44623/RollTheDice)
-<img src="images/Dice.png?raw=true"/>
+<img src="images/Dice.jpg?raw=true"/>
 
 
 
